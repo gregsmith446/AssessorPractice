@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\bin\Debug\netcoreapp2.1\AccessorPractice.deps.json
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\bin\Debug\netcoreapp2.1\AccessorPractice.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\bin\Debug\netcoreapp2.1\AccessorPractice.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\bin\Debug\netcoreapp2.1\AccessorPractice.dll
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\bin\Debug\netcoreapp2.1\AccessorPractice.pdb
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.dll
+C:\Users\gregs\Desktop\CD\AccessorPractice\AccessorPractice\obj\Debug\netcoreapp2.1\AccessorPractice.pdb
